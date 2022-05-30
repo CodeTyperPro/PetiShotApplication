@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="prog2_final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/oop_cpp_training" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/home/codetyper/Competitive Programming - Become a Master/oop_cpp_training/include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/oop_cpp_training" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="/home/codetyper/Competitive Programming - Become a Master/oop_cpp_training/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Animal.cpp" />
+		<Unit filename="Animal.h" />
+		<Unit filename="Bird.cpp" />
+		<Unit filename="Bird.h" />
+		<Unit filename="Container.cpp" />
+		<Unit filename="Container.h" />
+		<Unit filename="FlyingBird.cpp" />
+		<Unit filename="FlyingBird.h" />
+		<Unit filename="Items.cpp" />
+		<Unit filename="Items.h" />
+		<Unit filename="Layout.cpp" />
+		<Unit filename="Layout.h" />
+		<Unit filename="NotFlying.cpp" />
+		<Unit filename="NotFlyingBird.h" />
+		<Unit filename="Types.cpp" />
+		<Unit filename="Types.h" />
+		<Unit filename="Util.cpp" />
+		<Unit filename="Util.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="prog2_final_WFC6P3.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
