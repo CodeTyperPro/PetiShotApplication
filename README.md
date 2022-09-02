@@ -92,4 +92,5 @@ If you call the info() method on any instance, all the object details should be 
 When you create a FlyingBird (or Bird/NotFlyingBird), use the parent class’ constructors anywhere you can to create a new instance!
 
 Good luck!
+
 Deadline: 2022.05.30  17:00 on Teams 
