@@ -3,7 +3,7 @@
 Programming II – Final Exam
 
  * Full name: MARTINS Alfredo Alberto Dínis;
- * Neptun-code: WFC6P3;
+ <!--- Neptun-code: WFC6P3; --->
  * Operating System: Linux Ubuntu;
  * Date: 30.05.2022;
  * Duration: 3 hours => 14h:00 - 17h:00;
