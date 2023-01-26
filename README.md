@@ -1,18 +1,5 @@
 #Programming II FINAL EXAM
-
-Programming II – Final Exam
-
-<!---
- * Full name: MARTINS Alfredo Alberto Dínis;
-  Neptun-code: WFC6P3; 
- * Operating System: Linux Ubuntu;
- * Date: 30.05.2022;
- * Duration: 3 hours => 14h:00 - 17h:00;
- * Subject: Final Programming II EXAM --->
-
-Prequisites:
-1) Filename should be the following:	prog2_final_neptuncode
-2) In the first part of the file (as a comment), please write your full name and your neptun code.
+# Pet Shop Application
 
 Write a C++ program that follows the concepts of OOP.
 Through the application, you need to use inheritance!
@@ -91,7 +78,3 @@ Every NotFlyingBird can sing, blink and eat.
 If you call the info() method on any instance, all the object details should be displayed.
 
 When you create a FlyingBird (or Bird/NotFlyingBird), use the parent class’ constructors anywhere you can to create a new instance!
-
-Good luck!
-
-Deadline: 2022.05.30  17:00 on Teams 
