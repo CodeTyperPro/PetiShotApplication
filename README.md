@@ -1,4 +1,3 @@
-#Programming II FINAL EXAM
 # Pet Shop Application
 
 Write a C++ program that follows the concepts of OOP.
