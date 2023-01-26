@@ -1,16 +1,5 @@
-/* Programming II – Final Exam
-
- * Full name: MARTINS Alfredo Alberto Dínis;
- * Neptun-code: WFC6P3;
- * Operating System: Linux Ubuntu;
- * Date: 30.05.2022;
- * Duration: 3 hours => 14h:00 - 17h:00;
- * Subject: Final Programming II EXAM
-
-Prequisites:
-1) Filename should be the following:	prog2_final_neptuncode
-2) In the first part of the file (as a comment), please write your full name and your neptun code.
-
+#Peti Shop Applicaiton
+/*
 Write a C++ program that follows the concepts of OOP.
 Through the application, you need to use inheritance!
 IT IS A MUST TO SEPARATE YOUR CODE! USE HEADER FILES AS WE DID ON THE CLASS!
